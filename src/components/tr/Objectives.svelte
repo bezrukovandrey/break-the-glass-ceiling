@@ -1,0 +1,81 @@
+<div class="bg-darkPurple">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8 text-white">
+      <div class="mx-auto max-w-2xl lg:text-center ">
+        <h1 class="text-xl lg:text-xxl font-bold tracking-tight flex justify-center items-center py-10">Objectives</h1>
+      </div>
+      <div class="mx-auto max-w-2xl mt-10 lg:max-w-4xl">
+        <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
+          <div class="relative pl-16">
+            <dt class="text-base font-semibold leading-7 ">
+              <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-lightPurple">
+                <svg class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+                    <rect x="2" y="7" width="20" height="14" rx="2" ry="2" stroke-linecap="round" stroke-linejoin="round"></rect>
+                    <path d="M16 3h-4a2 2 0 0 0-2 2v2h8V5a2 2 0 0 0-2-2z" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg>
+                  
+                  
+              </div>
+              Proje yönetimi ve koordinasyon
+            </dt>
+            <dd class="mt-2 text-base leading-7 ">Tüm faaliyetlerin yerleşik zaman çizelgeleri ve hedefleriyle uyumlu olmasını sağlamak
+Düzenli ekip toplantıları ve güncellemeleri.İzlemek için bir proje yönetim aracı kullanılacak
+ilerleme ve son tarihler, tüm ortakların etkili bir şekilde katkıda bulunmasını ve programda kalmasını sağlar.</dd>
+          </div>
+          <div class="relative pl-16">
+            <dt class="text-base font-semibold leading-7">
+              <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-lightPurple">
+                <svg class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+                    <circle cx="11" cy="11" r="8" stroke-linecap="round" stroke-linejoin="round"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65" stroke-linecap="round" stroke-linejoin="round"></line>
+                  </svg>
+                  
+              </div>
+              Araştırma
+            </dt>
+            <dd class="mt-2 text-base leading-7">Karışık bir şekilde kapsamlı araştırma yapmak
+yöntem çalışması.Bu araştırma aşaması
+Hem nitel derinliğe hem de nicel genişliğe vurgu yapan veriler.Bu yaklaşım
+Katılımcıların deneyimleri ve ihtiyaçlarının kapsamlı bir şekilde anlaşılmasını sağlar.</dd>
+          </div>
+          <div class="relative pl-16">
+            <dt class="text-base font-semibold leading-7">
+              <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-lightPurple">
+                <svg class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+                    <path d="M2 7v13a1 1 0 0 0 1 1h18a1 1 0 0 0 1-1V7" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M12 5V3c0-1.1-.9-2-2-2H3a1 1 0 0 0-1 1v15" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M12 5V3c0-1.1.9-2 2-2h7a1 1 0 0 1 1 1v15" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </svg>
+                  
+              </div>
+              Yayın
+            </dt>
+            <dd class="mt-2 text-base leading-7">Araştırma bulgularının derlenmesi ve yazılması ve iyi
+Yayın için yapılandırılmış bir formatta uygulamalar.Bu yazma aşaması, bir
+Netlik ve titizlik sağlamak için birkaç revizyona giren taslak.Taslak olacak
+nihai yayından önce doğruluğu ve güvenilirliği garanti etmek için hakem incelemesine tabi tutulur.</dd>
+          </div>
+          <div class="relative pl-16 mb-10">
+            <dt class="text-base font-semibold leading-7">
+              <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-lightPurple">
+                <svg class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+                    <circle cx="18" cy="5" r="3" stroke-linecap="round" stroke-linejoin="round"></circle>
+                    <circle cx="6" cy="12" r="3" stroke-linecap="round" stroke-linejoin="round"></circle>
+                    <circle cx="18" cy="19" r="3" stroke-linecap="round" stroke-linejoin="round"></circle>
+                    <line x1="8.59" y1="13.51" x2="15.42" y2="17.49" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="15.41" y1="6.51" x2="8.59" y2="10.49" stroke-linecap="round" stroke-linejoin="round"></line>
+                  </svg>
+                  
+              </div>
+              Yayma
+            </dt>
+            <dd class="mt-2 text-base leading-7">Kapsamlı bir gelişme ve yürütme
+Yayılma Planı.Bu, geniş bir şekilde dağıtmak için stratejiler oluşturmayı ve uygulamayı içerir
+proje bulguları.Yayılma aşaması, seminerlerin, atölyelerin ve
+Kilit paydaşları ve daha geniş halkı hedefleyen çevrimiçi web seminerleri.Çeşitli medya kanalları
+Hedef kitleye etkili erişim ve katılım sağlamak için kullanılacaktır.</dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+  </div>
+  
