@@ -6,12 +6,12 @@
             </div> 
     
     
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+     
       <div class="text-center">
         
       <h1 class="text-l lg:text-xl">Femei tinere din și în afara Uniunii Europene</h1>
@@ -33,12 +33,12 @@ Aceste rezultate pot fi generalizate pentru toți solicitanții (ONG -uri) și p
      
     
     <div class="flex px-6 xl:flex-row flex-col">
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-mainPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+     
       <div class="text-center">
         
         <h1 class="text-l lg:text-xl">Organizații de tineret</h1>
@@ -68,7 +68,7 @@ permițându -le să -și adapteze inițiativele mai eficient.
     
             <div class="mx-auto max-w-2xl py-16 md:py-32">
         
-              <!-- Main Text Content -->
+              
               <div class="text-center">
                 
               <h1 class="text-l lg:text-xl">Muncitori de tineret</h1>
@@ -86,12 +86,12 @@ Părți interesate esențiale în strategia de diseminare a proiectului.Rezultat
              
             
             
-        <!-- Left Section: Text and Social Media Links -->
+       
         <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
             
             <div class="mx-auto max-w-2xl py-16 md:py-32">
         
-              <!-- Main Text Content -->
+             
               <div class="text-center">
                 
                 <h1 class="text-l lg:text-xl">Angajați ai instituțiilor de învățământ</h1>
@@ -119,7 +119,7 @@ Cunoștințele actualizate privind egalitatea de gen și împuternicirea pot tra
             
                     <div class="mx-auto max-w-2xl py-16 md:py-32">
                 
-                      <!-- Main Text Content -->
+                      
                       <div class="text-center">
                         
                       <h1 class="text-l lg:text-xl">Actori relevanți de învățământ superior</h1>
@@ -138,12 +138,12 @@ Agendele de cercetare și contribuie la discursul mai larg asupra abilitării fe
                      
                     
                     
-                <!-- Left Section: Text and Social Media Links -->
+                
                 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-darkPurple">
                     
                     <div class="mx-auto max-w-2xl py-16 md:py-32">
                 
-                      <!-- Main Text Content -->
+                    
                       <div class="text-center">
                         
                         <h1 class="text-l lg:text-xl">Factorii de decizie</h1>
@@ -173,7 +173,7 @@ Mediu mai echitabil și de susținere pentru femeile tinere.
                     
                             <div class="mx-auto max-w-2xl py-16 md:py-32">
                         
-                              <!-- Main Text Content -->
+                              
                               <div class="text-center">
                                 
                               <h1 class="text-l lg:text-xl">Profesioniști din sistemul de îngrijire socială</h1>

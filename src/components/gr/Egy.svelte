@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css">
 
 <div class="bg-darkPurple text-white flex flex-col xl:flex-row">
-    <!-- Left Section: Text and Social Media Links -->
+   
     <div class="px-6 pt-4 lg:pt-8 lg:px-8 w-full xl:w-1/2">
       <div class="mx-auto max-w-2xl py-16">
    
-        <!-- Main Text Content -->
+       
         <div class="text-center">
           <img src="/egy.jpg" alt="Egyutthato logo" class="object-cover w-32 mx-auto">
           <h1 class="mt-6 text-xl lg:text-xxl font-bold tracking-tight">Együttható Association Co-Efficient <span class="flag-icon flag-icon-hu"></span></h1>
@@ -23,7 +23,7 @@
           </div>
         </div>
   
-        <!-- Social Media Section -->
+        
         <div class="mt-10 flex justify-center gap-4">
           <a href="https://www.facebook.com/EgyuttHato" class="text-white hover:text-lightPurple">
             <img src="/facebook.svg" alt="Facebook" class="h-12 w-12">
@@ -38,7 +38,6 @@
       </div>
     </div>
   
-    <!-- Right Section: Circular Image -->
     <div class="w-2/3 xl:w-1/2 relative overflow-hidden flex items-center mx-auto max-xl:mb-10" style="aspect-ratio: 1;">
       <img src="/image_egy.jpg" alt="Poster" class="w-full h-full object-cover">
   </div>

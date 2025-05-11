@@ -7,12 +7,11 @@
             </div> 
     
     
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
       <div class="text-center">
         
       
@@ -29,12 +28,12 @@ Güçlendirme sürecini teşvik eden bulgular, yöntemler ve en iyi uygulamalar.
      
     
     
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-mainPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+   
       <div class="text-center">
         
       
@@ -57,12 +56,12 @@ Güçlendirme sürecini teşvik eden bulgular, yöntemler ve en iyi uygulamalar.
 
     
     
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-darkPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+    
       <div class="text-center">
         
       
@@ -82,12 +81,12 @@ Gençlik çalışmalarının boyutu.
      
     
     
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-mainPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+     
       <div class="text-center">
         
       

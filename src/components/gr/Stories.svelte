@@ -3,7 +3,6 @@
   import { onMount } from 'svelte';
  import { supabase } from '$lib/supabase';
   $: langPrefix = $language ? `/${$language}` : '';
-   // Example volunteer stories data
    let volunteers = [
    ];
 

@@ -6,12 +6,11 @@
             </div> 
     
     
-<!-- Left Section: Text and Social Media Links -->
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+     
       <div class="text-center">
         
       <h1 class="text-l lg:text-xl">Young Women Within and Outside the European Union</h1>
@@ -33,12 +32,12 @@ these results can be generalized for all applicants (NGOs) and policymakers.
      
     
     <div class="flex px-6 xl:flex-row flex-col">
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-mainPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+     
       <div class="text-center">
         
         <h1 class="text-l lg:text-xl">Youth Organizations</h1>
@@ -68,7 +67,7 @@ allowing them to tailor their initiatives more effectively.
     
             <div class="mx-auto max-w-2xl py-16 md:py-32">
         
-              <!-- Main Text Content -->
+              
               <div class="text-center">
                 
               <h1 class="text-l lg:text-xl">Youth Workers</h1>
@@ -86,12 +85,12 @@ empowerment, allowing them to offer more informed and effective support.
              
             
             
-        <!-- Left Section: Text and Social Media Links -->
+        
         <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
             
             <div class="mx-auto max-w-2xl py-16 md:py-32">
         
-              <!-- Main Text Content -->
+             
               <div class="text-center">
                 
                 <h1 class="text-l lg:text-xl">Employees of Educational Institutions</h1>
@@ -119,7 +118,7 @@ empowerment, allowing them to offer more informed and effective support.
             
                     <div class="mx-auto max-w-2xl py-16 md:py-32">
                 
-                      <!-- Main Text Content -->
+                    
                       <div class="text-center">
                         
                       <h1 class="text-l lg:text-xl">Relevant Higher Education Actors</h1>
@@ -138,12 +137,12 @@ research agendas and contribute to the broader discourse on women's empowerment.
                      
                     
                     
-                <!-- Left Section: Text and Social Media Links -->
+                
                 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-darkPurple">
                     
                     <div class="mx-auto max-w-2xl py-16 md:py-32">
                 
-                      <!-- Main Text Content -->
+                     
                       <div class="text-center">
                         
                         <h1 class="text-l lg:text-xl">Decision-Makers</h1>
@@ -173,7 +172,7 @@ more equitable and supportive environment for young women.
                     
                             <div class="mx-auto max-w-2xl py-16 md:py-32">
                         
-                              <!-- Main Text Content -->
+                      
                               <div class="text-center">
                                 
                               <h1 class="text-l lg:text-xl">Professionals in the Social Care System</h1>

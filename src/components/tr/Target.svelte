@@ -6,12 +6,12 @@
             </div> 
     
     
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+    
       <div class="text-center">
         
       <h1 class="text-l lg:text-xl">Avrupa Birliği içinde ve dışındaki genç kadınlar</h1>
@@ -33,12 +33,12 @@ Bu sonuçlar tüm başvuru sahipleri (STK'lar) ve politika yapıcılar için gen
      
     
     <div class="flex px-6 xl:flex-row flex-col">
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-mainPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+    
       <div class="text-center">
         
         <h1 class="text-l lg:text-xl">Gençlik Örgütleri</h1>
@@ -68,7 +68,7 @@ girişimlerini daha etkili bir şekilde uyarlamalarına izin vermek.
     
             <div class="mx-auto max-w-2xl py-16 md:py-32">
         
-              <!-- Main Text Content -->
+             
               <div class="text-center">
                 
               <h1 class="text-l lg:text-xl">Gençlik işçileri</h1>
@@ -86,12 +86,12 @@ Güçlendirme, daha bilinçli ve etkili destek sunmalarına izin verir.
              
             
             
-        <!-- Left Section: Text and Social Media Links -->
+        
         <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
             
             <div class="mx-auto max-w-2xl py-16 md:py-32">
         
-              <!-- Main Text Content -->
+           
               <div class="text-center">
                 
                 <h1 class="text-l lg:text-xl">Eğitim kurumlarının çalışanları</h1>
@@ -119,7 +119,7 @@ Cinsiyet eşitliği ve güçlendirme hakkında güncel bilgiler öğrencilerine 
             
                     <div class="mx-auto max-w-2xl py-16 md:py-32">
                 
-                      <!-- Main Text Content -->
+                     
                       <div class="text-center">
                         
                       <h1 class="text-l lg:text-xl">İlgili yüksek öğrenim aktörleri</h1>
@@ -138,12 +138,12 @@ Araştırma gündemleri ve kadınların güçlendirilmesi üzerine daha geniş s
                      
                     
                     
-                <!-- Left Section: Text and Social Media Links -->
+               
                 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-darkPurple">
                     
                     <div class="mx-auto max-w-2xl py-16 md:py-32">
                 
-                      <!-- Main Text Content -->
+                     
                       <div class="text-center">
                         
                         <h1 class="text-l lg:text-xl">Karar vericiler</h1>
@@ -173,7 +173,7 @@ Genç kadınlar için daha eşitlikçi ve destekleyici ortam.
                     
                             <div class="mx-auto max-w-2xl py-16 md:py-32">
                         
-                              <!-- Main Text Content -->
+                             
                               <div class="text-center">
                                 
                               <h1 class="text-l lg:text-xl">Sosyal bakım sistemindeki profesyoneller</h1>

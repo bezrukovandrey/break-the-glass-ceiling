@@ -5,10 +5,10 @@
         <img src="/image3.jpg" alt="Poster" class="w-full h-full object-cover" >
             </div> 
   
-      <!-- Left Section: Text and Social Media Links -->
+     
       <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
         <div class="mx-auto max-w-2xl py-16 md:py-32">
-          <!-- Main Text Content -->
+         
           <div class="text-center">
             <h1 class="text-xl">If you have questions - feel free to ask!</h1>
             <p class="mt-6 text-s leading-8">
@@ -28,7 +28,7 @@
       </div>
     </div>
   
-    <!-- Full-Width Newsletter Section -->
+    
     <div class="relative isolate overflow-hidden bg-darkPurple py-16 sm:py-24 lg:py-32">
       <div class="mx-auto max-w-7xl px-6 lg:px-8">
         <div class="mx-auto max-w-xl text-center">

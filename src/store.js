@@ -1,7 +1,7 @@
 import { writable } from 'svelte/store';
 
 const getInitialLanguage = () => {
-    return 'en'; // Fallback to 'en' if localStorage is unavailable
+    return 'en'; 
   };
   
   export const mobileMenuVisible = writable(false);

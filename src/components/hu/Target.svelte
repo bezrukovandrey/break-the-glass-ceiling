@@ -6,12 +6,12 @@
             </div> 
     
     
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+      
       <div class="text-center">
         
       <h1 class="text-l lg:text-xl">Fiatal nők az Európai Unióban és azon kívül</h1>
@@ -33,12 +33,12 @@ Ezek az eredmények általánosíthatók az összes jelentkező (nem kormányzat
      
     
     <div class="flex px-6 xl:flex-row flex-col">
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-mainPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+      
       <div class="text-center">
         
         <h1 class="text-l lg:text-xl">Ifjúsági szervezetek</h1>
@@ -68,7 +68,7 @@ lehetővé téve számukra, hogy hatékonyabban testreszabják kezdeményezései
     
             <div class="mx-auto max-w-2xl py-16 md:py-32">
         
-              <!-- Main Text Content -->
+             
               <div class="text-center">
                 
               <h1 class="text-l lg:text-xl">Ifjúsági dolgozók</h1>
@@ -86,12 +86,12 @@ A felhatalmazás, lehetővé téve számukra, hogy tájékozottabb és hatékony
              
             
             
-        <!-- Left Section: Text and Social Media Links -->
+       
         <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
             
             <div class="mx-auto max-w-2xl py-16 md:py-32">
         
-              <!-- Main Text Content -->
+             
               <div class="text-center">
                 
                 <h1 class="text-l lg:text-xl">Oktatási intézmények alkalmazottai</h1>
@@ -119,7 +119,7 @@ A nemek közötti egyenlőségről és a felhatalmazásról szóló naprakész i
             
                     <div class="mx-auto max-w-2xl py-16 md:py-32">
                 
-                      <!-- Main Text Content -->
+                     
                       <div class="text-center">
                         
                       <h1 class="text-l lg:text-xl">Releváns felsőoktatási szereplők</h1>
@@ -138,12 +138,12 @@ Kutatási menetrend és hozzájárul a nők felhatalmazásának szélesebb kör�
                      
                     
                     
-                <!-- Left Section: Text and Social Media Links -->
+                
                 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-darkPurple">
                     
                     <div class="mx-auto max-w-2xl py-16 md:py-32">
                 
-                      <!-- Main Text Content -->
+                     
                       <div class="text-center">
                         
                         <h1 class="text-l lg:text-xl">Döntéshozók</h1>
@@ -173,7 +173,7 @@ méltányosabb és támogató környezet a fiatal nők számára.
                     
                             <div class="mx-auto max-w-2xl py-16 md:py-32">
                         
-                              <!-- Main Text Content -->
+                             
                               <div class="text-center">
                                 
                               <h1 class="text-l lg:text-xl">Szakemberek a szociális gondozási rendszerben</h1>

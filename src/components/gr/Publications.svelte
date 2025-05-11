@@ -5,7 +5,7 @@
   $: langPrefix = $language ? `/${$language}` : '';
     let currentSlide = 0;
 
-    // Example list of 5 publications
+    
     let publications = [
     ];
 
@@ -20,12 +20,12 @@
 
   onMount(fetchPublications);
 
-    // Function to go to the next slide
+    
     function nextSlide() {
       currentSlide = (currentSlide + 1) % publications.length;
     }
 
-    // Function to go to the previous slide
+    
     function prevSlide() {
       currentSlide = (currentSlide - 1 + publications.length) % publications.length;
     }
@@ -38,7 +38,7 @@
 <div class="bg-mainPurple">
   {#if publications.length > 0}
     <div class="relative flex justify-center items-center w-full max-w-4xl mx-auto overflow-hidden">
-        <!-- Left Arrow (conditionally disabled) -->
+        
         <button 
             on:click={prevSlide} 
             class="absolute left-0 p-2 mx-2 rounded-full hover:bg-gray-800 focus:outline-none transition-opacity z-10"
@@ -50,7 +50,7 @@
             </svg>
         </button>
 
-        <!-- Slider Content with animation -->
+     
         <div class="flex w-full my-10 justify-center items-center">
             {#each publications as publication, index}
                 <div class={`transition-opacity duration-500 ease-in-out ${index === currentSlide ? 'opacity-100' : 'opacity-0 absolute'}`}>
@@ -66,7 +66,7 @@
             {/each}
         </div>
 
-        <!-- Right Arrow (conditionally disabled) -->
+        
         <button 
             on:click={nextSlide} 
             class="absolute right-0 p-2 mx-2 rounded-full hover:bg-gray-800 focus:outline-none transition-opacity"
@@ -79,7 +79,7 @@
         </button>
     </div>
 
-    <!-- Navigation Buttons -->
+    
     <div class="pb-6 flex justify-center gap-2">
         {#each publications as _, index}
             <button 

@@ -6,12 +6,12 @@
             </div> 
     
     
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+      
       <div class="text-center">
         
       <h1 class="text-l lg:text-xl">Νέες γυναίκες εντός και εκτός της Ευρωπαϊκής Ένωσης</h1>
@@ -33,12 +33,12 @@
      
     
     <div class="flex px-6 xl:flex-row flex-col">
-<!-- Left Section: Text and Social Media Links -->
+
 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-mainPurple">
     
     <div class="mx-auto max-w-2xl py-16 md:py-32">
 
-      <!-- Main Text Content -->
+      
       <div class="text-center">
         
         <h1 class="text-l lg:text-xl">Οργανώσεις νεολαίας</h1>
@@ -68,7 +68,7 @@
     
             <div class="mx-auto max-w-2xl py-16 md:py-32">
         
-              <!-- Main Text Content -->
+            
               <div class="text-center">
                 
               <h1 class="text-l lg:text-xl">Εργαζόμενοι στη νεολαία</h1>
@@ -86,12 +86,12 @@
              
             
             
-        <!-- Left Section: Text and Social Media Links -->
+      
         <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
             
             <div class="mx-auto max-w-2xl py-16 md:py-32">
         
-              <!-- Main Text Content -->
+             
               <div class="text-center">
                 
                 <h1 class="text-l lg:text-xl">Υπάλληλοι των εκπαιδευτικών ιδρυμάτων</h1>
@@ -119,7 +119,7 @@
             
                     <div class="mx-auto max-w-2xl py-16 md:py-32">
                 
-                      <!-- Main Text Content -->
+                     
                       <div class="text-center">
                         
                       <h1 class="text-l lg:text-xl">Σχετικοί ηθοποιοί τριτοβάθμιας εκπαίδευσης</h1>
@@ -138,12 +138,12 @@
                      
                     
                     
-                <!-- Left Section: Text and Social Media Links -->
+               
                 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-darkPurple">
                     
                     <div class="mx-auto max-w-2xl py-16 md:py-32">
                 
-                      <!-- Main Text Content -->
+                     
                       <div class="text-center">
                         
                         <h1 class="text-l lg:text-xl">Υπεύθυνοι λήψης αποφάσεων</h1>
@@ -173,7 +173,7 @@
                     
                             <div class="mx-auto max-w-2xl py-16 md:py-32">
                         
-                              <!-- Main Text Content -->
+                             
                               <div class="text-center">
                                 
                               <h1 class="text-l lg:text-xl">Επαγγελματίες στο σύστημα κοινωνικής φροντίδας</h1>

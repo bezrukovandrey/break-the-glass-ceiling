@@ -8,16 +8,16 @@
     let events = [];
 
     async function fetchEvents() {
-  console.log('Fetching events...');  // Add this log to see if the function is being called
+  console.log('Fetching events...');  
   
   const { data, error } = await supabase.from('events').select('*');
   
   if (error) {
-    console.error('Error fetching events:', error);  // Logs any errors
+    console.error('Error fetching events:', error);  
   } else {
-    console.log('Events fetched successfully:', data);  // Logs fetched data
+    console.log('Events fetched successfully:', data);  
     if (data.length === 0) {
-      console.log('No events found');  // Log if no events are fetched
+      console.log('No events found');  
     } else {
       events = data;
     }
@@ -28,12 +28,12 @@
   onMount(fetchEvents);
 
 
-    // Function to go to the next slide
+    
     function nextSlide() {
       currentSlide = (currentSlide + 1) % events.length;
     }
 
-    // Function to go to the previous slide
+    
     function prevSlide() {
       currentSlide = (currentSlide - 1 + events.length) % events.length;
     }
@@ -46,7 +46,7 @@
 <div class="bg-lightPurple">
     {#if events.length > 0}
     <div class="relative flex justify-center items-center w-full max-w-4xl mx-auto overflow-hidden">
-        <!-- Left Arrow (conditionally disabled) -->
+        
         <button 
             on:click={prevSlide} 
             class="absolute left-0 p-2 mx-2 rounded-full hover:bg-gray-800 focus:outline-none transition-opacity z-10"
@@ -58,7 +58,7 @@
             </svg>
         </button>
 
-        <!-- Slider Content with animation -->
+        
         <div class="flex w-full my-10 justify-center items-center">
             {#each events as event, index}
                 <div class={`transition-opacity duration-500 ease-in-out ${index === currentSlide ? 'opacity-100' : 'opacity-0 absolute'}`}>
@@ -74,7 +74,7 @@
             {/each}
         </div>
 
-        <!-- Right Arrow (conditionally disabled) -->
+        
         <button 
             on:click={nextSlide} 
             class="absolute right-0 p-2 mx-2 rounded-full hover:bg-gray-800 focus:outline-none transition-opacity"
@@ -87,7 +87,7 @@
         </button>
     </div>
 
-    <!-- Navigation Buttons -->
+   
     <div class="pb-6 flex justify-center gap-2">
         {#each events as _, index}
             <button 

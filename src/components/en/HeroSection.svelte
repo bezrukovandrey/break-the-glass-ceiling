@@ -3,15 +3,15 @@ import { language } from '../../store';
 import { goto } from '$app/navigation';
 $: langPrefix = $language ? `/${$language}` : '';
 
-  // State to manage modal visibility
+  
   let isModalOpen = false;
 
-  // Function to open the modal
+  
   function openModal() {
       isModalOpen = true;
   }
 
-  // Function to close the modal
+  
   function closeModal() {
       isModalOpen = false;
   }
@@ -44,7 +44,7 @@ $: langPrefix = $language ? `/${$language}` : '';
 
 </div>
 
-<!-- Modal -->
+
 {#if isModalOpen}
   <div class="fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50">
       <div class="bg-sandy rounded-lg p-6 w-1/3 relative">

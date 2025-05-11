@@ -3,7 +3,7 @@
 
   let message;
 
-  // Use a reactive statement to update `message` based on `language`
+  
   $: {
     switch ($language) {
       case 'en':
@@ -21,7 +21,7 @@
         case 'ro':
         message = "Finanțat de Uniunea Europeană. Opiniile și opiniile exprimate sunt, totuși, doar cele ale autorului (autorilor) și nu reflectă neapărat cele ale Uniunii Europene sau ale Agenției Executive pentru Educație și Cultură (EACEA). Nici Uniunea Europeană, nici EACEA nu pot fi trase la răspundere pentru acestea.";
         break;
-      // Add cases for 'ro' and 'tr' or other languages as needed
+      
       default:
         message = "Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.";
     }
