@@ -1,6 +1,6 @@
 
 <div class="bg-gray-900 text-white flex flex-col max-xl:gap-8">
-    <h1 class="text-xl lg:text-xxl font-bold tracking-tight flex justify-center items-center my-10">Σχετικά με το έργο</h1>
+    <h1 class="text-xl lg:text-xxl font-bold tracking-tight flex justify-center items-center my-10">Περίληψη</h1>
     <div class="flex px-6 xl:flex-row flex-col">
       <div class="w-full xl:w-1/2 relative overflow-hidden" style="aspect-ratio: 1;">
         <img src="/image6.jpg" alt="Poster" class="w-full h-full object-cover" >

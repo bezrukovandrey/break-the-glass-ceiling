@@ -10,13 +10,12 @@
           <img src="/nevo.png" alt="Nevo Parudimos logo" class="object-cover w-32 mx-auto">
           <h1 class="mt-6 text-xl lg:text-xxl font-bold tracking-tight">Nevo Parudimos Association <span class="flag-icon flag-icon-ro"></span></h1>
           <p class="mt-6 text-s lg:text-m leading-8">
-            Szervezetünk egy nonprofit és apolitikus csoport, amely volt
-A Romániában, a Romániában, a hallgatók, a hallgatók és a roma aktivisták által alapított fő mi főnk
-Cél a társadalmi, oktatási és kulturális különbségek csökkentése.Célunk a demokrácia előmozdítása,
-tolerancia és sokféleség, olyan közösségi programok kidolgozása, amelyek ellensúlyozzák a romákkal szembeni előítéleteket és
-Fokozza a roma közösségek szervezeti és problémamegoldó képességeit.Bejelentkezünk
-Különböző oktatási, kulturális és ifjúsági projektek, amelyek több Erasmus+ projektet tartalmaznak és
-Stratégiai partnerségek.Arra összpontosítunk, hogy felhatalmazzuk a hátrányos helyzetű csoportokat, például a roma fiatalokat és a szegény közösségekből származó csoportokat.</p>
+            A Nevo Parudimos nonprofit civil szervezet, amelyet Caras-Severin megyében egy csapat tanár, roma
+aktivista és roma hallgató alapított, Románia délnyugati részében 2008-ban. A Nevo Parudimos célja,
+hogy csökkentse a gazdasági, szociális, oktatási és kulturális különbségeket a társadalomban. A
+szervezet elismert a fogyatékos és a roma emberek inklúzív projektjeinek lefuttatásában. A Nevo
+Parudimos az első olyan civil szervezet, amely Romániában hirdeti a CLLD alapelveket és az alulról
+építkező megközelítést a helyi fejlesztési programok tervezésében, kidolgozásában.</p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
             <a href="https://nevoparudimos.ro/?lang=en" class="rounded-md bg-lightPurple px-4 py-3 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Látogasson el a weboldalra →</a>
           </div>

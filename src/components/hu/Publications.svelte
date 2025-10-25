@@ -59,7 +59,7 @@
                         <h2 class="text-l lg:text-xl font-bold">{publication.title_hu}</h2>
                         <p class="text-s mt-2">{publication.description_hu}</p>
                         <div class="mt-4 flex items-center justify-center gap-x-6">
-                            <a href={`${langPrefix}/publications/${publications[currentSlide].id}`} class="rounded-md bg-lightPurple px-4 py-2 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Read more →</a>
+                            <a href={`${langPrefix}/publications/${publications[currentSlide].id}`} class="rounded-md bg-lightPurple px-4 py-2 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Tovább olvasom →</a>
                         </div>
                     </div>
                 </div>
@@ -88,6 +88,7 @@
         {/each}
     </div>
     {:else}
-    <div class="py-48 text-center text-white">Jelenleg nincs publikáció</div>
+    <div class="py-48 text-center text-white">Kövesd nyomon oldalunkat – a projekt előrehaladtával folyamatosan bővítjük a publikációkat friss
+tartalmakkal és eredményekkel.</div>
     {/if}
 </div>

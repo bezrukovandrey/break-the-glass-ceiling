@@ -106,13 +106,13 @@ Cinsiyet eşitliği ve güçlendirme hakkında güncel bilgiler öğrencilerine 
             </div>
           </div>
           <div class="w-full xl:w-1/2 relative overflow-hidden" style="aspect-ratio: 1;">
-            <img src="/image14.jpg" alt="Poster" class="w-full h-full object-cover" >
+            <img src="/image14.JPG" alt="Poster" class="w-full h-full object-cover" >
                 </div>
         </div>
 
         <div class="flex px-6 xl:flex-row flex-col">
           <div class="w-full xl:w-1/2 relative overflow-hidden" style="aspect-ratio: 1;">
-            <img src="/image15.jpg" alt="Poster" class="w-full h-full object-cover" >
+            <img src="/image15.JPG" alt="Poster" class="w-full h-full object-cover" >
                 </div>
             
                 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-mainPurple">
@@ -161,12 +161,12 @@ Genç kadınlar için daha eşitlikçi ve destekleyici ortam.
                     </div>
                   </div>
                   <div class="w-full xl:w-1/2 relative overflow-hidden" style="aspect-ratio: 1;">
-                    <img src="/image16.jpg" alt="Poster" class="w-full h-full object-cover" >
+                    <img src="/image16.JPG" alt="Poster" class="w-full h-full object-cover" >
                         </div> 
                 </div>
                 <div class="flex px-6 xl:flex-row flex-col">
                   <div class="w-full xl:w-1/2 relative overflow-hidden" style="aspect-ratio: 1;">
-                    <img src="/image2.jpg" alt="Poster" class="w-full h-full object-cover" >
+                    <img src="/image17.jfif" alt="Poster" class="w-full h-full object-cover" >
                         </div> 
                     
                         <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">

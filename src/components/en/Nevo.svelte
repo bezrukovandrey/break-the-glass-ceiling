@@ -10,13 +10,10 @@
           <img src="/nevo.png" alt="Nevo Parudimos logo" class="object-cover w-32 mx-auto">
           <h1 class="mt-6 text-xl lg:text-xxl font-bold tracking-tight">Nevo Parudimos Association <span class="flag-icon flag-icon-ro"></span></h1>
           <p class="mt-6 text-s lg:text-m leading-8">
-            Our organization is a non-profit and apolitical group which was
-founded by teachers, students and Roma activists in Caras-Severin, Romania in 2008 Our main
-objective is to reduce social, educational and cultural disparities. We aim to promote democracy,
-tolerance and diversity, develop community programs that counter prejudice towards Roma and
-enhance the organizational and problem-solving capabilities of Roma communities. We engage in
-various educational, cultural and youth projects, which include several Erasmus+ projects and
-strategic partnerships. Our focus is to empower disadvantaged groups such as Roma youth and those from poor communities.
+           Our organization is a non-profit, apolitical association founded in 2008 in Caraș-Severin, Romania, by teachers, students, and Roma activists. Our mission is to reduce social, educational, and cultural disparities while promoting democracy, tolerance, and diversity.
+We develop community programs that challenge prejudice against Roma communities and strengthen their organizational and problem-solving capacities. Through a range of educational, cultural, and youth initiatives — including Erasmus+ projects and strategic partnerships — we strive to empower disadvantaged groups, particularly Roma youth and individuals from underprivileged backgrounds.
+By fostering inclusion, personal development, and active participation, our organization aims to create long-lasting, positive change in communities facing systemic barriers.
+
           </p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
             <a href="https://nevoparudimos.ro/?lang=en" class="rounded-md bg-lightPurple px-4 py-3 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Visit website →</a>

@@ -10,11 +10,11 @@
           <img src="/piyouth.jpg" alt="Pi Youth Association logo" class="object-cover w-32 mx-auto">
           <h1 class="mt-6 text-xl lg:text-xxl font-bold tracking-tight">Pi Youth Association <span class="flag-icon flag-icon-tr"></span></h1>
           <p class="mt-6 text-s lg:text-m leading-8">
-            We focus on developing partnerships and projects in areas like youth rights,
-technology, health, and social media analysis in youth programs. Founded in 2014, and accredited in
-ESC in 2016, the association works globally, supporting volunteers through the ESC process, including
-visa arrangements and insurance. It leverages the expertise of key personnel in legal, project
-management, and international relations to facilitate its international collaborations and local projects.
+            We focus on developing partnerships and projects in areas such as youth rights, technology, health,
+and social media analysis within youth programs. Founded in 2014 and accredited for the European
+Solidarity Corps (ESC) in 2016, our association works globally, supporting volunteers throughout the
+ESC process, including visa arrangements and insurance. We leverage the expertise of key personnel in legal affairs, project management, and international relations to strengthen both our international
+collaborations and local initiatives.
           </p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
             <a href="https://www.pigenclikdernegi.org/en" class="rounded-md bg-lightPurple px-4 py-3 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Visit website →</a>

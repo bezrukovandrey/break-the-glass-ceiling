@@ -10,12 +10,12 @@
           <img src="/usobalkans.png" alt="United Society of Balkans logo" class="object-cover mx-auto w-32">
           <h1 class=" mt-6 text-xl lg:text-xxl font-bold tracking-tight">United Societies Of Balkans <span class="flag-icon flag-icon-gr"></span></h1>
           <p class="mt-6 text-s lg:text-m leading-8">
-            We are a non-profit organization based in Thessaloniki, Greece, that has
-            been focusing on youth development, human rights, and intercultural dialogue since 2008 Our
-            programs aim to empower young people, promote mobility, advocate for human rights, and achieve
-            gender equality. Through conducting research, publishing findings, and implementing youth projects,
-            we strive to enhance intercultural dialogue and advocate for human rights. Additionally, our organization is involved in various international networks and projects to expand our
-            outreach and impact across Europe and beyond.
+            We are a non-profit organization based in Thessaloniki, Greece, that has been focusing on youth
+development, human rights, and intercultural dialogue since 2008 Our programs aim to empower
+young people, promote mobility, advocate for human rights, and achieve gender equality. Through
+research, publications, and youth projects, we strive to enhance intercultural dialogue and promote
+human rights. Additionally, our organization is involved in various international networks and projects
+to expand our outreach and impact across Europe and beyond.
           </p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
             <a href="https://www.usbngo.gr/en" class="rounded-md bg-lightPurple px-4 py-3 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Visit website →</a>

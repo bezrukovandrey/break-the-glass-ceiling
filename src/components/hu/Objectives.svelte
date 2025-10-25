@@ -17,9 +17,14 @@
               </div>
               Projektmenedzsment és koordináció
             </dt>
-            <dd class="mt-2 text-base leading-7 ">Annak biztosítása, hogy minden tevékenység igazodjon a bevált ütemtervhez és célkitűzésekhez
-Rendszeres csapatbeszélgetések és frissítések.A nyomon követéshez projektmenedzsment eszközt fognak használni
-előrehaladás és határidők, biztosítva, hogy minden partner hatékonyan járuljon hozzá, és maradjon az ütemtervben.</dd>
+            <dd class="mt-2 text-base leading-7 ">A projekt megvalósítása szigorúan az előre meghatározott célok és ütemterv mentén történik. A
+koordinációt rendszeres csapatmegbeszélések és aktualitások támogatják, amelyek elősegítik a
+hatékony együttműködést és az időben történő feladatvégzést. A projekt nyomon követésére digitális
+menedzsment eszközöket használunk, amelyek segítségével a partnerek folyamatosan figyelemmel
+kísérhetik a feladatok állását, megoszthatják eredményeiket és biztosíthatják az átlátható
+munkafolyamatot. A tevékenységek dokumentálása (meghívók, jelenléti ívek, fotók, jegyzőkönyvek) a
+határidők és az utánkövetés, terjesztés biztosítását szolgálja. Célunk, hogy a partnerség minden tagja
+aktívan és hatékonyan járuljon hozzá a projekt sikeres megvalósításához.</dd>
           </div>
           <div class="relative pl-16">
             <dt class="text-base font-semibold leading-7">
@@ -32,10 +37,11 @@ előrehaladás és határidők, biztosítva, hogy minden partner hatékonyan já
               </div>
               Kutatás
             </dt>
-            <dd class="mt-2 text-base leading-7">Átfogó kutatás elvégzése vegyes-
-Módszervizsgálat.Ez a kutatási szakasz magában foglalja az ESC projektek kedvezményezettjeinek összegyűjtését
-Az adatok, amelyek hangsúlyt fektetnek mind a kvalitatív mélységre, mind a kvantitatív szélességre.Ez a megközelítés
-Biztosítja a résztvevők tapasztalatainak és igényeinek alapos megértését.</dd>
+            <dd class="mt-2 text-base leading-7">A projekt keretében átfogó kutatást végzünk vegyes módszertan alkalmazásával, amelyben az ESC-
+projektek résztvevői is aktív szerepet kapnak. Az adatgyűjtés során egyaránt hangsúlyt fektetünk a
+kvalitatív és a kvantitatív adatokra, hogy teljes képet kapjunk a fiatal nők attitűdjeinek megismeréséről.
+Ez a komplex megközelítés lehetővé teszi a nők megerősödését segítő és gátló tényezők pontos
+feltérképezését, ezáltal megalapozva a további szakmai munkát és ajánlásokat.</dd>
           </div>
           <div class="relative pl-16">
             <dt class="text-base font-semibold leading-7">
@@ -47,12 +53,34 @@ Biztosítja a résztvevők tapasztalatainak és igényeinek alapos megértését
                   </svg>
                   
               </div>
-              Közzététel
+              Publikáció
             </dt>
-            <dd class="mt-2 text-base leading-7">A kutatási eredmények és a jó összeállítása és írása
-a gyakorlati formátumba történő gyakorlati gyakorlat.Ez az írási szakasz magában foglalja a
-Az egyértelműség és az alaposság biztosítása érdekében számos felülvizsgálaton megy keresztül.A tervezet lesz
-szakértői felülvizsgálatnak vetik alá a pontosság és a megbízhatóság garantálása érdekében a végleges közzététel előtt.</dd>
+            <dd class="mt-2 text-base leading-7">A kutatás eredményeit és a feltárt jó gyakorlatokat rendszerezett, szakmailag megalapozott formában
+dolgozzuk fel és tesszük közzé. A kézirat több szerkesztési és lektorálási szakaszon megy keresztül, hogy
+a végső publikáció világos, pontos és megbízható forrásként szolgáljon a szakemberek, döntéshozók és
+ifjúsági szervezetek számára. A cél egy olyan kiadvány létrehozása, amely nemcsak dokumentálja,
+hanem inspirálja is a nők társadalmi szerepvállalásának erősítését célzó kezdeményezéseket.</dd>
+          </div>
+          <div class="relative pl-16">
+            <dt class="text-base font-semibold leading-7">
+              <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-lightPurple">
+                <svg class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+                    <circle cx="18" cy="5" r="3" stroke-linecap="round" stroke-linejoin="round"></circle>
+                    <circle cx="6" cy="12" r="3" stroke-linecap="round" stroke-linejoin="round"></circle>
+                    <circle cx="18" cy="19" r="3" stroke-linecap="round" stroke-linejoin="round"></circle>
+                    <line x1="8.59" y1="13.51" x2="15.42" y2="17.49" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="15.41" y1="6.51" x2="8.59" y2="10.49" stroke-linecap="round" stroke-linejoin="round"></line>
+                  </svg>
+                  
+              </div>
+              Disszemináció
+            </dt>
+            <dd class="mt-2 text-base leading-7">A projekt egyik kiemelt célja, hogy az elért eredmények széles körben ismertté váljanak, és a
+gyakorlatban is hasznosuljanak. Ezért egy átfogó disszeminációs tervet dolgoztunk ki, amelyben
+különböző kommunikációs és szakmai eszközöket alkalmazunk. Szemináriumok, workshopok és online
+webináriumok segítségével osztjuk meg a kutatás tanulságait a szakemberekkel, döntéshozókkal és a
+tágabb közönséggel, elősegítve a nők társadalmi megerősödésével kapcsolatos tudás terjedését és
+beépülését a mindennapi gyakorlatokba.</dd>
           </div>
           <div class="relative pl-16 mb-10">
             <dt class="text-base font-semibold leading-7">
@@ -66,13 +94,13 @@ szakértői felülvizsgálatnak vetik alá a pontosság és a megbízhatóság g
                   </svg>
                   
               </div>
-              Terjesztés
+              Kommunikáció
             </dt>
-            <dd class="mt-2 text-base leading-7">Átfogó fejlesztés és végrehajtása
-terjesztési terv.Ez magában foglalja a széles körű terjesztés stratégiáinak létrehozását és végrehajtását
-A projekt eredményei.A terjesztési szakasz magában foglalja a szemináriumok, műhelyek szervezését és
-Online webináriumok, amelyek a legfontosabb érdekelt feleket és a szélesebb körű nyilvánosságot célozzák meg.Különböző médiacsatornák
-felhasználják a célközönség hatékony elérésének és elkötelezettségének biztosítására.</dd>
+            <dd class="mt-2 text-base leading-7">A projekt teljes időtartama alatt egységes és átlátható a kommunikációs folyamatra törekszünk. A külső
+kommunikáció a partnerek által közösen meghatározott arculat és irányelvek mentén zajlik, biztosítva
+a konzisztenciát és hitelességet. A projekt kommunikációjának egyik fontos eszköze a saját weboldala
+és instagram oldala, valamint az egyesület és a partnerek közösségi médiafelületei, ahol folyamatosan
+friss információkat és híreket osztunk meg a megvalósításról.</dd>
           </div>
         </dl>
       </div>

@@ -1,6 +1,6 @@
 
 <div class="bg-gray-900 text-white flex flex-col max-xl:gap-8">
-    <h1 class="text-xl lg:text-xxl font-bold tracking-tight flex justify-center items-center my-10">A projektről</h1>
+    <h1 class="text-xl lg:text-xxl font-bold tracking-tight flex justify-center items-center my-10">Összegzés</h1>
     <div class="flex px-6 xl:flex-row flex-col">
       <div class="w-full xl:w-1/2 relative overflow-hidden" style="aspect-ratio: 1;">
         <img src="/image6.jpg" alt="Poster" class="w-full h-full object-cover" >
@@ -17,10 +17,11 @@
         
       
         <p class="mt-6 text-m leading-8">
-            A "Break the Glass Ceiling" projekt célja az ifjúsági szolgáltatások minőségének javítása, különösen
-Önkéntes projektek az Európai Szolidaritás Testület alatt, a fiatalok felhatalmazására összpontosítva
-nők.Ezt a célt átfogó kutatás, közzététel és terjesztés útján hajtják végre
-megállapítások, módszerek és bevált gyakorlatok, amelyek elősegítik a felhatalmazási folyamatot.
+            A projekt keretében egy nemzetközi kutatás valósul meg, amely elsősorban kvalitatív
+vizsgálatokkal méri fel a résztvevő nők tapasztalatait. Fókuszában a női tapasztalatok állnak, mert az
+eddigi mérések alapján a nők felülreprezentáltak a nemzetközi önkéntességben, így mélységében
+ráláthatunk a programmal kapcsolatban tapasztalt strukturális egyenlőtlenségekre, különösen
+harmadik országból érkező nők esetében.
         </p>
       </div>
 
@@ -41,8 +42,13 @@ megállapítások, módszerek és bevált gyakorlatok, amelyek elősegítik a fe
         
       
         <p class="mt-6 text-m leading-8">
-            A projekt arra összpontosít, hogy kutatja az ifjúsági önkéntes projektek hatékonyságát női szempontból, és foglalkozik az ágazat hatékonysági hiányosságaival.Eredmény-alapú módszertani kézikönyvet és bevált gyakorlatok gyűjteményét fogja előállítani az érdekelt felek irányításához.A terjesztési erőfeszítések célja, hogy több mint 4000 szakértőt érjenek el rendezvények és közvetlen marketing révén, biztosítva a projekt módszereinek széles körű elfogadását.A kulcskimenetek négy kutatási tervet, jelentés és egy átfogó útmutatási publikációt tartalmaznak az ifjúsági szolgáltatások fejlesztésére.
-        </p>
+A kutatás célja, hogy feltárja, hogyan járulhatnak hozzá az önkéntes programok a nők
+társadalmi egyenlőségéhez, és milyen tényezők akadályozzák, vagy éppen segítik őket ebben; továbbá
+a támogató szervezetek, hogyan segítenek nekik túljutni a felmerülő nehézségeken. Konkrét képet és
+adatokat nyerünk az ifjúsági szektor önkéntes projektjeinek gender szempontú hatékonyságáról, az
+ezek mögött húzódó okokról négy EU országban. Megismerjük a fiatal nők megélt tapasztalatait, saját
+kultúrájuk nők számára nyújtott lehetőségeiről. Látjuk azokat a női élet- és karrier utakat, amelyek az
+önkéntes program választását befolyásolták, és hogy miért vonzó számukra a lehetőség        </p>
       </div>
 
       
@@ -69,11 +75,13 @@ megállapítások, módszerek és bevált gyakorlatok, amelyek elősegítik a fe
         
       
         <p class="mt-6 text-m leading-8">
-            Az Erasmus+ prioritásokhoz igazítva a projekt támogatja a magas szintű ifjúsági munkát a
-A fiatal nők igényei.A projekt eredményei javítják az elismerést és
-Az ifjúsági munka hatékonysága bizonyítékokon alapuló betekintés és gyakorlati eszközök biztosítása révén
-Az ifjúsági szervezetek és a munkavállalók jelentkezhetnek szolgáltatásaik fejlesztése érdekében.Ezenkívül a projekt kiterjedt terjesztési erőfeszítései elősegítik az elismerést és a nemzetköziséget
-Az ifjúsági munka dimenziója.</p>
+           A kutatási eredmények alapján fejlesztett módszertani csomag és kiadvány a négy ország
+releváns döntéshozói számára iránytűként szolgálhat magas színvonalú önkéntes projektek
+megvalósításához, ezen keresztül az inklúzió általános érvényesülésének növeléséhez. A
+disszeminációs tevékenységeknek köszönhetően projekt szellemi termékei, a kutatási tervek, kutatási
+jelentések, az útmutató, eredményekre alapozott javaslatcsomag, jógyakorlat gyűjtemény, széles
+körben multiplikáló hatást érnek el. Tervezetten, több mint 4000 szakértőt érnek majd el rendezvények
+és direkt marketing révén.</p>
       </div>
 
       
@@ -93,13 +101,13 @@ Az ifjúsági munka dimenziója.</p>
         
       
         <p class="mt-6 text-m leading-8">
-            A projekt fontosságát az Európai Parlament és az Európa hangsúlyozza
-Bizottsági állásfoglalások, amelyek hangsúlyozzák a társadalmi befogadás és a munkaerő javításának szükségességét
-A fiatal nők piaci részvétele1.A "Break the Glass mennyezet" projekt szorosan igazodik
-Az Erasmus+ program céljaival és prioritásaival, az európai ifjúsági politikai célok és
-Az EU nemi egyenlőségi stratégiája, amely az egyenlő bánásmód biztosítására, a nemek elérésére összpontosít
-Egyenlőség egyetemes megfontolás és a nők számára célzott intézkedések bevezetése
-felhatalmazás. </p>
+           A terület fontosságát mind az Európai Parlament, mind az Európai Bizottság több
+állásfoglalásában rögzítette; A fiatal nők társadalmi inklúziója, társadalmi és munkaerőpiaci
+szerepvállalásuk növelése ez Európai Unió egyik fontos célkitűzése. Programunk szoros összhangban
+van az Erasmus+ program céljaival és prioritásaival, az Európai Ifjúságpolitikai célkitűzéseivel és az EU
+Nemi Esélyegyenlőségi Stratégia mentén célja egyenlő bánásmód biztosítása, a nemek közötti
+egyenlőség általános érvényű szemponttá tétele, célzott intézkedések bevezetése a nők érvényesülése
+érdekében. </p>
       </div>
 
       

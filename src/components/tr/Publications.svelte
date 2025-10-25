@@ -59,7 +59,7 @@
                         <h2 class="text-l lg:text-xl font-bold">{publication.title_tr}</h2>
                         <p class="text-s mt-2">{publication.description_tr}</p>
                         <div class="mt-4 flex items-center justify-center gap-x-6">
-                            <a href={`${langPrefix}/publications/${publications[currentSlide].id}`} class="rounded-md bg-lightPurple px-4 py-2 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Read more →</a>
+                            <a href={`${langPrefix}/publications/${publications[currentSlide].id}`} class="rounded-md bg-lightPurple px-4 py-2 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Daha fazlasını oku →</a>
                         </div>
                     </div>
                 </div>

@@ -92,7 +92,7 @@ let menuRef;
         { label: "Εκδηλώσεις", path: `${langPrefix}/events` },
       ],
     },
-    // Add more languages as needed
+    
   }[$language] || navItems.en; 
 
   onMount(() => {
@@ -117,9 +117,9 @@ let menuRef;
     if (!isMenuOpen1 && !isLanguageMenuOpen) {
         isMenuOpen = !isMenuOpen;
     } else {
-        isMenuOpen = true;  // Keep the menu open
-        isMenuOpen1 = false; // Close the other menu
-        isLanguageMenuOpen = false; // Close language menu
+        isMenuOpen = true; 
+        isMenuOpen1 = false; 
+        isLanguageMenuOpen = false; 
     }
 }
 
@@ -127,9 +127,9 @@ function toggleMenu1() {
     if (!isMenuOpen && !isLanguageMenuOpen) {
         isMenuOpen1 = !isMenuOpen1;
     } else {
-        isMenuOpen1 = true;  // Keep the menu open
-        isMenuOpen = false; // Close the other menu
-        isLanguageMenuOpen = false; // Close language menu
+        isMenuOpen1 = true;  
+        isMenuOpen = false; 
+        isLanguageMenuOpen = false; 
     }
 }
 
@@ -137,9 +137,9 @@ function toggleLanguageMenu() {
     if (!isMenuOpen && !isMenuOpen1) {
         isLanguageMenuOpen = !isLanguageMenuOpen;
     } else {
-        isLanguageMenuOpen = true; // Keep the menu open
-        isMenuOpen = false; // Close the other menu
-        isMenuOpen1 = false; // Close other menu
+        isLanguageMenuOpen = true; 
+        isMenuOpen = false; 
+        isMenuOpen1 = false; 
     }
 }
 
@@ -162,7 +162,7 @@ function toggleLanguageMenu() {
   if (location.pathname !== newPath) {
     goto(newPath);
   } else {
-    goto(newPath, { replaceState: true }); // Forces a re-render if already on the same page
+    goto(newPath, { replaceState: true });
   }
 
   language.set(newLang);

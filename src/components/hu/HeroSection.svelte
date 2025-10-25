@@ -25,8 +25,15 @@
                 </button>
           </div>
           <div class="text-center">
-              <h1 class="text-balance text-xl lg:text-xxl font-bold tracking-tight">Üdvözöljük a Break the Glass Ceiling projekt oldalunkon!</h1>
-              <p class="mt-6 text-s lg:text-m leading-8">A fiatal nők felhatalmazására összpontosítunk.Ezt a célt átfogó kutatás, közzététel és a felhatalmazási folyamatot elősegítő eredmények, módszerek és bevált gyakorlatok terjesztése révén hajtják végre.</p>
+              <h1 class="text-balance text-xl lg:text-xxl font-bold tracking-tight">Üdvözöljük a Break the Glass Ceiling projektünk oldalán</h1>
+              <p class="mt-6 text-s lg:text-m leading-8">Projektünk célja az ifjúsági szolgáltatások, azon belül is az Európai Szolidaritási Testület keretében
+megvalósított önkéntes projektek minőségének növelése a fiatal nők empowerment-folyamatának
+fókuszba helyezésével. Ezt kutatással, az eredmény publikálásával és terjesztésével, valamint az
+empowerment folyamatot elősegítő módszereket és jó gyakorlatokat bemutató kiadvány
+terjesztésével kívánjuk elérni.</p>
+<p class="mt-6 text-s lg:text-m leading-8">A Break the Glass Ceiling projekt célja, hogy javítsa az ifjúsági szolgáltatások és az Európai
+Szolidaritási Testület önkéntes programjainak minőségét azáltal, hogy a fiatal nők
+megerősítését, társadalmi szerepvállalását és egyenlő esélyeit helyezi a középpontba.</p>
               <div class="mt-10 flex items-center justify-center gap-x-6">
                   <a href="/hu/about" class="rounded-md bg-lightPurple px-4 py-3 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Tudjon meg többet →</a>
               </div>

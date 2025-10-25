@@ -67,7 +67,7 @@
                         <h2 class="text-l lg:text-xl font-bold">{event.title}</h2>
                         <p class="text-s mt-2">{event.description}</p>
                         <div class="mt-4 flex items-center justify-center gap-x-6">
-                            <a href={`${langPrefix}/events/${events[currentSlide].id}`} class="rounded-md bg-lightPurple px-4 py-2 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Read more →</a>
+                            <a href={`/events/${events[currentSlide].id}`} class="rounded-md bg-lightPurple px-4 py-2 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Read more →</a>
                         </div>
                     </div>
                 </div>

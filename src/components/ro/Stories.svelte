@@ -16,6 +16,12 @@
    }
  }
 
+ function getPreview(text, sentencesCount = 2) {
+    const sentences = text.match(/[^\.!\?]+[\.!\?]+/g);
+    if (!sentences) return text;
+    return sentences.slice(0, sentencesCount).join(' ');
+  }
+
  onMount(fetchStories);
  </script>
  
@@ -30,9 +36,9 @@
      {#each volunteers as volunteer}
        <div class="bg-darkPurple p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
          <h2 class="text-xl font-bold">{volunteer.name}, {volunteer.age}</h2>
-         <p class="mt-2 text-gray-300">{volunteer.text_ro}</p>
+         <p class="mt-2 text-gray-300">{getPreview(volunteer.text_ro)}</p>
          <div class="mt-4 flex justify-center">
-           <a href={`${langPrefix}/stories/${volunteer.id}`} class="rounded-md bg-lightPurple px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Read more →</a>
+           <a href={`${langPrefix}/stories/${volunteer.id}`} class="rounded-md bg-lightPurple px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Citește mai mult →</a>
          </div>
        </div>
      {/each}

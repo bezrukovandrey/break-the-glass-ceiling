@@ -17,9 +17,9 @@
               </div>
               Project Management and Coordination
             </dt>
-            <dd class="mt-2 text-base leading-7 ">Ensuring that all activities align with established timelines and objectives through
-                regular team meetings and updates. A project management tool will be utilized to track
-                progress and deadlines, ensuring that all partners contribute effectively and stay on schedule.</dd>
+            <dd class="mt-2 text-base leading-7 ">Ensuring that all activities align with established timelines and objectives will be achieved through
+regular team meetings and updates. A project management tool will be used to track progress and
+deadlines, ensuring that all partners contribute effectively and remain on schedule.</dd>
           </div>
           <div class="relative pl-16">
             <dt class="text-base font-semibold leading-7">
@@ -32,10 +32,10 @@
               </div>
               Research
             </dt>
-            <dd class="mt-2 text-base leading-7">Conducting comprehensive research through a mixed-
-                method study. This research phase involves engaging beneficiaries of ESC projects to gather
-                data with an emphasis on both qualitative depth and quantitative breadth. This approach
-                ensures a thorough understanding of the experiences and needs of the participants.</dd>
+            <dd class="mt-2 text-base leading-7">Comprehensive research will be conducted using a mixed-methods approach. This research phase
+involves engaging beneficiaries of ESC projects to gather data, with an emphasis on both qualitative
+depth and quantitative breadth. This approach ensures a thorough understanding of participants’
+experiences and needs.</dd>
           </div>
           <div class="relative pl-16">
             <dt class="text-base font-semibold leading-7">
@@ -49,10 +49,10 @@
               </div>
               Publication
             </dt>
-            <dd class="mt-2 text-base leading-7">The compilation and writing of the research findings and good
-                practices into a structured format for publication. This writing phase includes developing a
-                draft that undergoes several revisions to ensure clarity and thoroughness. The draft will be
-                subjected to peer review to guarantee accuracy and reliability before final publication.</dd>
+            <dd class="mt-2 text-base leading-7">The research findings and good practices will be compiled and written in a structured format for
+publication. The writing phase includes developing a draft that undergoes several revisions to ensure
+clarity and thoroughness. The draft will also be subjected to peer review to guarantee accuracy and
+reliability before final publication.</dd>
           </div>
           <div class="relative pl-16 mb-10">
             <dt class="text-base font-semibold leading-7">
@@ -68,11 +68,11 @@
               </div>
               Dissemination
             </dt>
-            <dd class="mt-2 text-base leading-7">Development and execution of a comprehensive
-                dissemination plan. This involves creating and implementing strategies to widely distribute
-                the project findings. The dissemination phase includes organizing seminars, workshops, and
-                online webinars targeting key stakeholders and the broader public. Various media channels
-                will be utilized to ensure effective reach and engagement with the target audience.</dd>
+            <dd class="mt-2 text-base leading-7">A comprehensive dissemination plan will be developed and executed. This involves creating and
+implementing strategies to widely share the project findings. The dissemination phase includes
+organizing seminars, workshops, and online webinars targeting key stakeholders and the broader
+public. Various media channels will be utilized to ensure effective reach and engagement with the
+target audience.</dd>
           </div>
         </dl>
       </div>

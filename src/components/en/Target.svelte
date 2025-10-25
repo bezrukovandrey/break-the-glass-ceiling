@@ -15,13 +15,13 @@
         
       <h1 class="text-l lg:text-xl">Young Women Within and Outside the European Union</h1>
         <p class="mt-6 text-s leading-8">
-            The "Break the Glass Ceiling" project targets young women both within and outside the
-European Union, allowing for the collection of diverse cultural perspectives and the
-identification of common features of successful projects from the viewpoint of women's
-needs. By examining these projects, the initiative aims to compile best practices from
-European Solidarity Corps (ESC) implementing organizations in different countries. The project
-ensures that the most appropriate frameworks are provided primarily for women, and that
-these results can be generalized for all applicants (NGOs) and policymakers.
+            The “Break the Glass Ceiling” project targets young women both within and outside the European
+Union, allowing for the collection of diverse cultural perspectives and the identification of common
+features of successful projects from the perspective of women’s needs. By examining these initiatives,
+the project aims to compile best practices from European Solidarity Corps (ESC) implementing
+organizations across different countries. It ensures that the most appropriate frameworks are
+developed primarily for women, while also producing results that can be generalized for all applicants,
+including NGOs and policymakers.
         </p>
       </div>
 
@@ -42,12 +42,11 @@ these results can be generalized for all applicants (NGOs) and policymakers.
         
         <h1 class="text-l lg:text-xl">Youth Organizations</h1>
         <p class="mt-6 text-s leading-8">
-            Youth organizations are key partners in disseminating the project's findings and implementing
-its methodologies. They have direct access to young people and are instrumental in creating
-and supporting volunteering opportunities. Youth organizations will benefit from the project's
-research by gaining access to evidence-based practices that enhance their programs. The
-project's findings will help these organizations understand the unique needs of young women,
-allowing them to tailor their initiatives more effectively.
+            Youth organizations are key partners in disseminating the project’s findings and implementing its
+methodologies. With direct access to young people, they play a vital role in creating and supporting
+volunteering opportunities. By engaging with the project’s research, these organizations gain access to
+evidence-based practices that strengthen their programs. The findings also help them better
+understand the specific needs of young women, enabling more tailored and effective initiatives
         </p>
       </div>
 
@@ -72,9 +71,10 @@ allowing them to tailor their initiatives more effectively.
                 
               <h1 class="text-l lg:text-xl">Youth Workers</h1>
                 <p class="mt-6 text-s leading-8">
-                    Youth workers play a crucial role in mentoring and supporting young people, making them
-essential stakeholders in the project's dissemination strategy. The research findings will provide youth workers with a deeper understanding of the barriers and enablers of women's
-empowerment, allowing them to offer more informed and effective support.
+                    Youth workers play a crucial role in mentoring and supporting young people, making them key
+stakeholders in the project’s dissemination strategy. The research findings will give youth workers
+deeper insights into the barriers and enablers of women’s empowerment, enabling them to provide
+more informed and effective support.
                 </p>
               </div>
         
@@ -95,9 +95,10 @@ empowerment, allowing them to offer more informed and effective support.
                 
                 <h1 class="text-l lg:text-xl">Employees of Educational Institutions</h1>
                 <p class="mt-6 text-s leading-8">
-                    Employees of educational institutions, including teachers, administrators, and counselors,
-                    have significant influence over young people's development and career paths. Educators with
-                    up-to-date knowledge on gender equality and empowerment can pass on to their students.
+                    Employees of educational institutions, including teachers, administrators, and counselors, have
+significant influence over young people’s development and career paths. Educators with up-to-date
+knowledge on gender equality and empowerment can effectively pass this knowledge on to their
+students, fostering awareness and supporting personal growth.
                 </p>
               </div>
         
@@ -105,13 +106,13 @@ empowerment, allowing them to offer more informed and effective support.
             </div>
           </div>
           <div class="w-full xl:w-1/2 relative overflow-hidden" style="aspect-ratio: 1;">
-            <img src="/image14.jpg" alt="Poster" class="w-full h-full object-cover" >
+            <img src="/image14.JPG" alt="Poster" class="w-full h-full object-cover" >
                 </div>
         </div>
 
         <div class="flex px-6 xl:flex-row flex-col">
           <div class="w-full xl:w-1/2 relative overflow-hidden" style="aspect-ratio: 1;">
-            <img src="/image15.jpg" alt="Poster" class="w-full h-full object-cover" >
+            <img src="/image15.JPG" alt="Poster" class="w-full h-full object-cover" >
                 </div>
             
                 <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-mainPurple">
@@ -123,10 +124,10 @@ empowerment, allowing them to offer more informed and effective support.
                         
                       <h1 class="text-l lg:text-xl">Relevant Higher Education Actors</h1>
                         <p class="mt-6 text-s leading-8">
-                            Higher education actors, such as university administrators, researchers, and faculty members,
-are influential in shaping educational policies and practices. These stakeholders benefit from
-access to the project's research findings, which can inform curriculum development and
-research agendas and contribute to the broader discourse on women's empowerment.
+                            Higher education actors, including university administrators, researchers, and faculty members, play a
+key role in shaping educational policies and practices. They benefit from the project’s research findings,
+which can inform curriculum development, guide research agendas, and contribute to the broader
+discourse on women’s empowerment.
                         </p>
                       </div>
                 
@@ -147,12 +148,11 @@ research agendas and contribute to the broader discourse on women's empowerment.
                         
                         <h1 class="text-l lg:text-xl">Decision-Makers</h1>
                         <p class="mt-6 text-s leading-8">
-                            Decision-makers, including policymakers, government officials, and leaders in the public and
-private sectors, have the authority to implement policies that can drive systemic change.
-Decision-makers will benefit from detailed research findings of the project and policy
-recommendations that offer actionable insights for promoting women's empowerment. By
-incorporating the project's recommendations into their policies, decision-makers can create a
-more equitable and supportive environment for young women.
+                           Decision-makers, including policymakers, government officials, and leaders in the public and private
+sectors, have the authority to drive systemic change. They benefit from the project’s research findings
+and policy recommendations, which provide actionable insights for promoting women’s
+empowerment. By incorporating these recommendations into their policies, decision-makers can help
+create a more equitable and supportive environment for young women.
                         </p>
                       </div>
                 
@@ -160,12 +160,12 @@ more equitable and supportive environment for young women.
                     </div>
                   </div>
                   <div class="w-full xl:w-1/2 relative overflow-hidden" style="aspect-ratio: 1;">
-                    <img src="/image16.jpg" alt="Poster" class="w-full h-full object-cover" >
+                    <img src="/image16.JPG" alt="Poster" class="w-full h-full object-cover" >
                         </div> 
                 </div>
                 <div class="flex px-6 xl:flex-row flex-col">
                   <div class="w-full xl:w-1/2 relative overflow-hidden" style="aspect-ratio: 1;">
-                    <img src="/image2.jpg" alt="Poster" class="w-full h-full object-cover" >
+                    <img src="/image17.jfif" alt="Poster" class="w-full h-full object-cover" >
                         </div> 
                     
                         <div class="px-6 pt-8 lg:px-8 w-full xl:w-1/2 bg-lightPurple">
@@ -177,13 +177,11 @@ more equitable and supportive environment for young women.
                                 
                               <h1 class="text-l lg:text-xl">Professionals in the Social Care System</h1>
                                 <p class="mt-6 text-s leading-8">
-                                    Professionals in the social care system, such as social workers and healthcare
-professionals, work directly with vulnerable populations and play a critical role in providing
-support services. The project's findings will help these professionals understand the
-unique challenges faced by young women, enabling them to offer more targeted and
-effective support. Networking events and resource-sharing platforms allow social care
-professionals to exchange best practices and collaborate on initiatives, improving the
-overall quality of care provided.
+                                   Professionals in the social care system, including social workers and healthcare providers, work directly
+with vulnerable populations and play a crucial role in delivering support services. The project’s findings
+help them understand the unique challenges faced by young women, enabling more targeted and
+effective support. Networking events and resource-sharing platforms allow social care professionals to
+exchange best practices and collaborate on initiatives, enhancing the overall quality of care.
                                 </p>
                               </div>
                         

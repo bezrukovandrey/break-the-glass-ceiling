@@ -10,12 +10,11 @@
           <img src="/usobalkans.png" alt="United Society of Balkans logo" class="object-cover mx-auto w-32">
           <h1 class=" mt-6 text-xl lg:text-xxl font-bold tracking-tight">United Societies Of Balkans <span class="flag-icon flag-icon-gr"></span></h1>
           <p class="mt-6 text-s lg:text-m leading-8">
-           Egy nonprofit szervezet vagyunk, amelynek székhelye Thesszaloniki, Görögország, az a
-2008 óta összpontosít az ifjúság fejlődésére, az emberi jogokra és az interkulturális párbeszédre
-A programok célja a fiatalok felhatalmazása, a mobilitás előmozdítása, az emberi jogok támogatása és a elérése
-A nemek közötti egyenlőség.Kutatás elvégzésével, eredmények közzétételével és ifjúsági projektek végrehajtásával,
-Arra törekszünk, hogy javítsuk az interkulturális párbeszédet és az emberi jogok támogatását.Ezenkívül szervezetünk különféle nemzetközi hálózatokban és projektekben vesz részt, hogy kibővítsük
-Tájékoztatás és hatás Európában és azon túl.
+           U.S.B. nonprofit civil szervezet az ifjúsági munka, az emberi jogok és az interkulturális párbeszéd
+területén Thesszalonikiben, Görögországban. A szervezetet 2008-ban alapította aktív fiatalok
+csoportja, akik a balkáni és kelet-európai fiatalokat érintő társadalmi kérdésekkel akartak foglalkozni. A
+szervezet jövőképe és célja a fiatalok szerepének erősítése, a gazdasági és politikai életben való
+részvétel, a fiatalok mobilitása, az önkéntesség és az emberi jogok előmozdítása.
           </p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
             <a href="https://www.usbngo.gr/en" class="rounded-md bg-lightPurple px-4 py-3 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Látogasson el a weboldalra →</a>

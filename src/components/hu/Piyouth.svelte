@@ -10,11 +10,14 @@
           <img src="/piyouth.jpg" alt="Pi Youth Association logo" class="object-cover w-32 mx-auto">
           <h1 class="mt-6 text-xl lg:text-xxl font-bold tracking-tight">Pi Youth Association <span class="flag-icon flag-icon-tr"></span></h1>
           <p class="mt-6 text-s lg:text-m leading-8">
-            A partnerségek és projektek fejlesztésére összpontosítunk olyan területeken, mint az ifjúsági jogok,
-Technológiai, egészségügyi és közösségi média elemzése az ifjúsági programokban.2014 -ben alapították és akkreditálták
-ESC 2016 -ban az Egyesület globálisan működik, támogatva az önkénteseket az ESC folyamatán keresztül, beleértve
-vízummegállapodások és biztosítás.Ez kihasználja a kulcsfontosságú személyzet szakértelmét a jogi, projektben
-menedzsment és nemzetközi kapcsolatok, hogy megkönnyítsék a nemzetközi együttműködéseket és a helyi projekteket.
+           A Pi Youth Association egy 2014-ben alapított civil szervezet, amely a 15–30 év közötti fiatalok jogaiért
+és problémáik megoldásáért dolgozik. Küldetését fiatalokkal, fiatalokért valósítja meg, hiszen erejét
+azokból meríti, akiket képvisel. Helyi, nemzeti és nemzetközi szinten szervez programokat, projekteket
+és képzéseket, főként az Európai Unió és más nemzetközi szervezetek támogatásával. Tevékenységei
+hat fő területre épülnek: a klímaválság és fenntarthatóság, ifjúsági jogok és részvétel, egészséges
+életmód, fiatalok és ifjúsági munkások megerősítése, az önkéntesség népszerűsítése, valamint ifjúsági
+szervezetek kapacitásfejlesztése. Céljuk, hogy a fiatalok aktív, tudatos és felelős polgárokká váljanak,
+akik képesek formálni a jelenüket és jövőjüket.
           </p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
             <a href="https://www.pigenclikdernegi.org/en" class="rounded-md bg-lightPurple px-4 py-3 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Látogasson el a weboldalra →</a>

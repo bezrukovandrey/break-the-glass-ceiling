@@ -10,13 +10,23 @@
           <img src="/egy.jpg" alt="Egyutthato logo" class="object-cover w-32 mx-auto">
           <h1 class="mt-6 text-xl lg:text-xxl font-bold tracking-tight">Együttható Association Co-Efficient <span class="flag-icon flag-icon-hu"></span></h1>
           <p class="mt-6 text-s lg:text-m leading-8">
-            Számos tapasztalattal/szakértelemmel rendelkezünk a fiatalok részvételével
-fogyatékossággal élni a helyi és nemzetközi cselekvések/tanulási tapasztalatokba.A fiatalok bevonása
-A fogyatékossággal élő emberek a napi munkánk fő horizontális célja, előmozdítva a
-Független életmozgás és a fiatalok felhatalmazása arra, hogy önfenntarthatóbbá és aktívabbá váljanak
-polgárok az út mentén.Tapasztalataink az, hogy kevés hangsúlyt fektetnek a fiatalokkal folytatott ifjúsági munkára
-a fogyatékossággal élők helyi szinten, ami - véleményünk szerint garantálja a legtöbb lehetőséget
-Értékes és állandó eredmények.
+            Az Együttható Egyesületet szociális szakemberek és lelkes fiatal önkéntesek alapították 2010-ben a
+nem formális tanulás, az innovatív közösségi szolgáltatások és akkoriban még új, inkluzív szemléletmód
+terjesztése érdekében.
+Kiemelt
+tevékenységünk
+a
+fogyatékos
+fiatalok
+támogatása
+inkluzív
+környezetben,
+kompetenciafejlesztő programokkal. Emellett minden fiatal számára lehetőséget biztosítunk
+nemzetközi csereprogramokban, képzésekben és külföldi önkéntes szolgálatban való részvételre.
+2024 októberben megnyitottuk akadálymentes közösségi házunkat Újpesten a Király utca 25 szám
+alatt, ahol fejlesztő foglakozásokat tartunk, ifjúsági szabadidős programokat szervezünk, főként
+fogyatékossággal élő résztvevőink számára.
+Egyesületünk az Eurodesk Magyarország ifjúsági információs hálózat partnere.
           </p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
             <a href="https://egyutthato.eu/" class="rounded-md bg-lightPurple px-4 py-3 text-s font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Látogasson el a weboldalra →</a>
