@@ -2,7 +2,7 @@
 
 Official multinational website for an international project uniting five partner countries to empower young women and expand access to employment and education for extra‑EU women. The site features publications, events, and volunteer stories that are managed and updated from a central database.
 
-Link: https://github.com/bezrukovandrey/break-the-glass-ceiling
+Link: https://www.womenvolunteers.eu/
 
 ## Features
 - Public-facing pages for project information, partner countries, and volunteer stories
